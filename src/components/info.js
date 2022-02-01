@@ -10,7 +10,7 @@ export default function Info() {
             <div className= "name-info">
                 <h2 className= "name">Johan Oen</h2>
                 <h3 className="job">Frontend Dev</h3>
-                <p className= "website">johan.github.website</p>
+                <p className= "website">github.com/JohanO98</p>
             </div>
             <div className="button-container">
                 <div className="button button1">
